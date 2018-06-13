@@ -16,6 +16,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="teach_view_1_1.HenCoderClass1_1Activity"/>
     </application>
 
 </manifest>
